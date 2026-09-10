@@ -1,0 +1,11 @@
+const tecnicos = [];
+
+export function salvar (tecnico){
+    tecnico.push(tecnico)
+}
+export function editar (indice, tecnico){
+    tecnico[indice].
+}
+export function (){
+
+}
